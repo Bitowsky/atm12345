@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1643577853,
+	"version": 1643578441,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -102,6 +102,7 @@
 		"images/menu_newgamebtn-sheet0.png",
 		"images/menu_loadgamebtn-sheet0.png",
 		"images/menu_loadgamebtn-sheet1.png",
+		"images/menu_fs-sheet0.png",
 		"images/magnet-sheet0.png",
 		"images/magnet-sheet1.png",
 		"images/marable-sheet0.png",

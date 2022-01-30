@@ -32402,6 +32402,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Repeat,
 	cr.plugins_.Text.prototype.cnds.PickByUID,
 	cr.plugins_.LocalStorage.prototype.acts.RemoveItem,
+	cr.plugins_.Browser.prototype.acts.RequestFullScreen,
 	cr.plugins_.Audio.prototype.acts.SetVolume,
 	cr.system_object.prototype.acts.SubVar,
 	cr.plugins_.Audio.prototype.acts.PlayByName,
@@ -32410,6 +32411,5 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.NodeWebkit.prototype.acts.SetWindowWidth,
 	cr.plugins_.NodeWebkit.prototype.acts.SetWindowHeight,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
-	cr.plugins_.Browser.prototype.acts.CancelFullScreen,
-	cr.plugins_.Browser.prototype.acts.RequestFullScreen
+	cr.plugins_.Browser.prototype.acts.CancelFullScreen
 ];};
