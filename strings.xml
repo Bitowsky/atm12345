@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+	<disclaimer>DISCLAIMER:\n\nEnglish text is not used perfectly here, but i think it will be understandable for reading.\n\nI do not own any music in this project.\nThey're only for placeholder and test.\n\n(NOTE: Press F to toggle fullscreen)\n\nClick Left Mouse Button to continue...</disclaimer>
+	<game>
+		<res>
+			<score>Marbles collected: {0}</score>
+			<time>Time: {0}</time>
+			<map>Go to the map</map>
+		</res>
+		<pause>
+			<pause size="20">Pause</pause>
+			<option1 size="20">Continue</option1>
+			<option2 size="20">Retry</option2>
+			<option3 size="20">Quit</option3>
+		</pause>
+		
+	</game>
+	
+	<levelname>
+		<unknown>???</unknown>
+		<marbles>({0} marbles collected)</marbles>
+		<world1>
+			<level1>
+				<title>First Level</title>
+				<desc>Shouldn't be in a final release</desc>
+			</level1>
+			<level2>
+				<title>Blue Dragging</title>
+				<desc>New stuff to learn</desc>
+			</level2>
+			<level3>
+				<title>Ignoration Participation</title>
+				<desc>You can try, but it wont work</desc>
+			</level3>
+			<level4>
+				<title>Maze</title>
+				<desc>This jumped from 0 to 100 very quickly....</desc>
+			</level4>
+			<level5>
+				<title>Marble Mechanic</title>
+				<desc>Time to act, like a real constructor!</desc>
+			</level5>
+			<level6>
+				<title>Tricky Spin-Off</title>
+				<desc>Spin to Win, Baby!</desc>
+			</level6>
+			<level7>
+				<title>Killer Road</title>
+				<desc>No touchy!</desc>
+			</level7>
+			<level8>
+				<title>Acid Rain</title>
+				<desc>Destruction is falling from the sky</desc>
+			</level8>
+			<level9>
+				<title>The End?</title>
+				<desc>Is that our way to end this?</desc>
+			</level9>
+		</world1>
+	</levelname>
+	
+	<mail>
+		<world id="1">
+			<level id="1">
+				<mail id="1">
+					<text id="1">Oh, sorry!</text>
+					<text id="2">I think one of my letters is stuck on your way!</text>
+					<text id="3">I'm really sorry for that...</text>
+					<text id="4">BUT...</text>
+					<text id="5">Do not sell this game!</text>
+					<text id="6">Everyone can make mistakes, right?</text>
+					<text id="7">...right?</text>
+					<text id="8">...</text>
+					<text id="9">...what do you mean "it's not a game yet"?</text>
+					<text id="10">...</text>
+					<text id="11">.....</text>
+					<text id="12">DID I STUTTER!?</text>
+				</mail>
+				<mail id="999">
+					<text id="1">Oj, przepraszam!</text>
+					<text id="2">Chyba jeden z moich listów stanął na twojej drodze!</text>
+					<text id="3">Bardzo Cię za to przepraszam...</text>
+					<text id="4">ALE...</text>
+					<text id="5">Nie sprzedawaj tej gry!</text>
+					<text id="6">Każdy popełnia błędy, co nie?</text>
+					<text id="7">...co nie?</text>
+					<text id="8">...</text>
+					<text id="9">...co masz na myśli przez "to nie jest jeszcze gra"?</text>
+					<text id="10">...</text>
+					<text id="11">.....</text>
+					<text id="12">CZY JA SIĘ STĘKNĘŁAM!?</text>
+				</mail>
+				<mail id="2">
+					<text id="1">That's funny</text>
+					<text id="2">I can make this text go on...</text>
+					<text id="3">...and on...</text>
+					<text id="4">...and on and on and on and on...</text>
+					<text id="5">...and it still works!</text>
+					<text id="6">That's pretty intense, isn't it?</text>
+				</mail>
+			</level>
+			<level id="2">
+				<mail id="1">
+					<text id="1">Have you ever feeled like someone special?</text>
+					<text id="2">Like someone, who got special invitation for some party or even for some work?</text>
+					<text id="3">Cause i don't!</text>
+					<text id="4">But i wonder how it feels like...</text>
+					<text id="5">Oh...</text>
+					<text id="6">Those blue radiation circles?</text>
+					<text id="7">Don't worry.</text>
+					<text id="8">They won't hurt you*</text>
+					<text id="9">*i think</text>
+					<text id="10">But they will definitely behave on these little marbles.*</text>
+					<text id="11">*i think</text>
+					<text id="12">So use them for some good purpose or something!</text>
+					<text id="13">And i'll watch your hard work!</text>
+					<text id="14">...</text>
+					<text id="15">...</text>
+					<text id="16">...i think</text>
+				</mail>
+			</level>
+			<level id="3">
+				<mail id="1">
+					<text id="1">Red circles?</text>
+					<text id="2">Kinda scary, not gonna lie</text>
+					<text id="3">Oh!</text>
+					<text id="4">I hope they didn't hear me...</text>
+					<text id="5">That would make them feel sad</text>
+					<text id="6">:(</text>
+					<text id="7">You know...</text>
+					<text id="8">Maybe this will sound weird, but...</text>
+					<text id="9">i think they would get offended, if you put magnificent tool inside their range</text>
+					<text id="10">Who knows</text>
+					<text id="11">Maybe they will...</text>
+					<text id="12">...StEaL yOuR pOwEr?</text>
+					<text id="13">...</text>
+					<text id="14">.....</text>
+					<text id="15">That was supposed to be scary</text>
+					<text id="16">...</text>
+					<text id="17">.....</text>
+					<text id="18">...are you scared?</text>
+				</mail>
+			</level>
+			<level id="4">
+				<mail id="1">
+					<text id="1">Remember when you first time learned about blue circles?</text>
+					<text id="2">Ahhh, good times...</text>
+					<text id="3">I remember this like it was...</text>
+					<text id="4">...</text>
+					<text id="5">A WHOLE MINUTE AGO!</text>
+					<text id="6">I hope you don't have amnesia!</text>
+					<text id="7">By the way...</text>
+					<text id="8">Why is this level called "Maze"?</text>
+					<text id="9">THIS LEVEL IS LITERALLY TWO TURNS TO THE LEFT AND RIGHT</text>
+					<text id="10">They'd better get a new level designer for that...</text>
+				</mail>
+				<mail id="2">
+					<text id="1">I have a question</text>
+					<text id="2">Do you have your audio turned on?</text>
+					<text id="3">I was just wondering...</text>
+					<text id="4">( ._.)</text>
+					<text id="4">('-')</text>
+					<text id="5">OKSEEYAGOODBYE</text>
+				</mail>
+			</level>
+			<level id="5">
+				<mail id="1">
+					<text id="1">Ohhh...</text>
+					<text id="2">My mind is spinNiNg...</text>
+					<text id="3">Now I see the DoUbLeS!</text>
+					<text id="4">Aghh! Get yourself together!</text>
+					<text id="5">Oh! It's just some activator!</text>
+					<text id="6">So blue...</text>
+					<text id="7">I hate blue</text>
+					<text id="8">Like really...</text>
+					<text id="9">Who likes blue?</text>
+					<text id="10">Ok, I'm outta here, this puzzle is for you</text>
+					<text id="11">I WON'T HELP YOU WITH IT</text>
+					<text id="12">(it's not like i wasn't helping anyways)</text>
+				</mail>
+			</level>
+			<level id="6">
+				<mail id="1">
+					<text id="1">I like that area inside there</text>
+					<text id="2">But they don't let me go in</text>
+					<text id="3">C'mon!</text>
+					<text id="4">let me in</text>
+					<text id="5">LET ME IIIIIINNNNNNNN</text>
+					<text id="6">ok, i changed my mind, i don't wanna go inside</text>
+					<text id="7">...</text>
+					<text id="8">STOP LOOKING AT ME, I JUST MADE A DIFFERENT DECISION</text>
+				</mail>
+				<mail id="2">
+					<text id="1">Only one person at a time!</text>
+					<text id="2">We don't want problem, are we?</text>
+					<text id="3">:)</text>
+				</mail>
+			</level>
+			<level id="7">
+				<mail id="1">
+					<text id="1">Ahh!!!</text>
+					<text id="2">What ARE these machines!?</text>
+					<text id="3">They look very deadly!</text>
+					<text id="4">I like it :)</text>
+					<text id="5">But your marables won't</text>
+					<text id="6">They will probably get destroyed</text>
+					<text id="7">How do I know that?</text>
+					<text id="8">I dunno, i was just guessing</text>
+					<text id="9">LOL</text>
+				</mail>
+				<mail id="2">
+					<text id="1">Did you make it through this deadly valley?</text>
+					<text id="2">Because i got stuck</text>
+					<text id="3">s.o.s.</text>
+					<text id="4">...---...</text>
+					<text id="5">P.S. Just kidding, how can you save a stupid mail paper?</text>
+				</mail>
+			</level>
+			<level id="8">
+				<mail id="1">
+					<text id="1">I'M INVINCIBLE*</text>
+					<text id="2">*not</text>
+					<text id="3">**i'm just a text</text>
+					<text id="4">***these little pesky red destructos won't kill me</text>
+					<text id="5">****but</text>
+					<text id="6">*****you have to know</text>
+					<text id="7">******one very important thing</text>
+					<text id="8">*******and that thing is...</text>
+					<text id="9">ok, im tired of drawing these asterisks</text>
+					<text id="10">Just don't go under these red brick lines when you don't have to, ok?</text>
+				</mail>
+				<mail id="2">
+					<text id="1">This area is out of limits</text>
+					<text id="2">You won't get here</text>
+					<text id="3">lmao</text>
+				</mail>
+			</level>
+			<level id="9">
+				<mail id="1">
+					<text id="1">...</text>
+					<text id="2">Woah</text>
+					<text id="3">That's a spectacular final</text>
+					<text id="4">Welp</text>
+					<text id="5">I guess that's it</text>
+					<text id="6">Thanks for testing</text>
+					<text id="7">Oh, and by the way</text>
+					<text id="8">No</text>
+					<text id="9">I'm not working here</text>
+					<text id="10">I'm just a little girl that likes to bother others</text>
+					<text id="11">I was just dropping these lists all around the place</text>
+					<text id="12">And noone ever noticed them</text>
+					<text id="13">Until you came here</text>
+					<text id="14">But i think that will be the last mail that you will read</text>
+					<text id="15">Hope we'll meet each other sometime</text>
+					<text id="16">somewhere...</text>
+				</mail>
+			</level>
+			
+		</world>
+	</mail>
+	
+	<ct>
+		<intro>
+			<text id="1">CONGRATULATIONS!</text>
+			<text id="2">You just became...</text>
+			<text id="3">MAGNET</text>
+			<text id="4">TESTER</text>
+			<text id="5">We're expecting you in our Test Room.</text>
+		</intro>
+		<middle2>
+			<subtitle id="1" start="175" end="225">Halo?</subtitle>
+			<subtitle id="2" start="235" end="315">Test. Test.</subtitle>
+			<subtitle id="3" start="335" end="395">Czy mnie słyszysz?</subtitle>
+			<subtitle id="4" start="435" end="480">Ok...</subtitle>
+			<subtitle id="5" start="495" end="585">To jest test napisów.</subtitle>
+			<subtitle id="6" start="610" end="655">Tak.</subtitle>
+			<subtitle id="7" start="670" end="745">Mogę przywoływać ten przepiękny tekst</subtitle>
+			<subtitle id="8" start="745" end="855">gdy tylko się odezwę.</subtitle>
+			<subtitle id="9" start="874" end="940">Czy to nie jest fajne?</subtitle>
+			<subtitle id="10" start="953" end="1015">Mam nadzieję, że jest...</subtitle>
+			<subtitle id="11" start="1085" end="1135">Więc,</subtitle>
+			<subtitle id="12" start="1135" end="1175">em...</subtitle>
+			<subtitle id="13" start="1180" end="1245">Jak tam u Ciebie?</subtitle>
+			<subtitle id="14" start="1260" end="1370">Bo u mnie jest dobrze.</subtitle>
+			<subtitle id="15" start="1455" end="1495">Ok...</subtitle>
+			<subtitle id="16" start="1495" end="1575">Chyba nasz czas się skończył</subtitle>
+			<subtitle id="17" start="1595" end="1655">Do zobaczenia!</subtitle>
+			<subtitle id="18" start="1713" end="1767">...albo i nie</subtitle>
+		</middle2>
+		<middle>
+			<subtitle id="1" start="175" end="225">Hello?</subtitle>
+			<subtitle id="2" start="235" end="315">Testing. Testing.</subtitle>
+			<subtitle id="3" start="335" end="395">Can you hear me?</subtitle>
+			<subtitle id="4" start="435" end="480">Ok...</subtitle>
+			<subtitle id="5" start="495" end="585">This is subtitle test.</subtitle>
+			<subtitle id="6" start="610" end="655">Yes.</subtitle>
+			<subtitle id="7" start="670" end="745">With such talking i can</subtitle>
+			<subtitle id="8" start="745" end="855">make this fabulous text appear.</subtitle>
+			<subtitle id="9" start="874" end="940">Isn't that cool?</subtitle>
+			<subtitle id="10" start="953" end="1015">I hope it is...</subtitle>
+			<subtitle id="11" start="1085" end="1135">So,</subtitle>
+			<subtitle id="12" start="1135" end="1175">um...</subtitle>
+			<subtitle id="13" start="1180" end="1245">How are you doing?</subtitle>
+			<subtitle id="14" start="1260" end="1370">Because i'm doing good.</subtitle>
+			<subtitle id="15" start="1455" end="1495">Ok...</subtitle>
+			<subtitle id="16" start="1495" end="1575">I guess time is up</subtitle>
+			<subtitle id="17" start="1595" end="1655">See you later!</subtitle>
+			<subtitle id="18" start="1713" end="1767">...or not</subtitle>
+		</middle>
+		<proposition>
+			<subtitle id="1" start="60" end="115">Bravo Tester!</subtitle>
+			<subtitle id="2" start="130" end="232">If you are reading this,</subtitle>
+			<subtitle id="3" start="prev" end="390">that means you passed all 9 tests.</subtitle>
+			<subtitle id="4" start="392" end="535" func="nice">We are very proud of you and your hard work</subtitle>
+			<subtitle id="5" start="prev" end="670">that you put into testing our Magnet.</subtitle>
+			<subtitle id="6" start="685" end="715" func="nicehide">So...</subtitle>
+			<subtitle id="7" start="730" end="785" func="question">How was it?</subtitle>
+			<subtitle id="8" start="795" end="930" func="happysad">Was it good?\nWas it bad?</subtitle>
+			<subtitle id="9" start="prev" end="985" func="questionhide">Either way,</subtitle>
+			<subtitle id="10" start="prev" end="1210" func="guy">we want to offer you a job into expanding Magnet Power.</subtitle>
+			<subtitle id="11" start="1215" end="1415" func="guyhide">We want to create more environment for product usage,</subtitle>
+			<subtitle id="12" start="prev" end="1590" func="people">so people could actually use our creation.</subtitle>
+			<subtitle id="13" start="1595" end="1660" func="peoplehide">Will it work?</subtitle>
+			<subtitle id="14" start="1665" end="1730" func="shrug">We don't know.</subtitle>
+			<subtitle id="15" start="1740" end="1850" func="ok">But it will be a lot of fun.</subtitle>
+			<subtitle id="16" start="1860" end="1965" func="okhide">Or at least we think so.</subtitle>
+			<subtitle id="17" start="1972" end="2010">So...</subtitle>
+			<subtitle id="18" start="prev" end="2090">If you are interested,</subtitle>
+			<subtitle id="19" start="2095" end="2165" func="testroom">go back to TEST ROOM</subtitle>
+			<subtitle id="20" start="prev" end="2320" func="dkey">and HOLD D KEY FOR 15 SECONDS.</subtitle>
+			<subtitle id="21" start="2330" end="2375">Remember!</subtitle>
+			<subtitle id="22" start="2390" end="2515" func="dkey2">D KEY FOR 15 SECONDS!</subtitle>
+			<subtitle id="23" start="2520" end="2575" func="thide">Ok.</subtitle>
+			<subtitle id="24" start="2575" end="2715">I hope you will accept proposition.</subtitle>
+			<subtitle id="25" start="2720" end="2765" func="bye">See ya!</subtitle>
+		</proposition>
+	</ct>
+</text>
